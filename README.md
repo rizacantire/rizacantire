@@ -9,7 +9,7 @@
 -->
 
 
-- 🔭 I’m currently working on Java and Javascript
+- 🔭 I’m currently working on Java ,Javascript and .Net
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with anything
 - 💬 You can ask me about the software.
